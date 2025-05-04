@@ -7,9 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/yashjai40942350" target="blank"><img src="https://img.shields.io/twitter/follow/yashjai40942350?logo=twitter&style=for-the-badge" alt="yashjai40942350" /></a> </p>
 
-- 🔭 I’m currently working on **my portfolio website**
+- 🔭 I'm an AI/ML Engineer with nearly a year of hands-on experience building intelligent systems—from data collection and model development to deployment and integration. I specialize in Natural Language Processing, Computer Vision, and building end-to-end ML pipelines.
 
-- 🌱 I’m currently learning **Web development**
+With a background in Computer Science & Data Science, and real-world experience in chatbot development, model fine-tuning, and cloud deployment, I’m always looking to push the limits of what machines can do.
+
+🚀 I love tackling new challenges, working on meaningful projects, and collaborating with people who are just as curious about AI as I am.
+
+**
+
+- 🌱 Currently exploring LLMs, RAG pipelines, LangChain, and AI Agent frameworks to build smarter, context-aware applications.
 
 - 📫 How to reach me **yashjain74000@gmail.com**
 
